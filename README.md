@@ -22,6 +22,13 @@ When inserting those coordinates into Google-maps search bar, it gives Paris as 
 
 "Paris" is a passphrase which is needed to get access to the secret file in the picture: flag.txt
 
+The command needed to get the flag is:
 
+steghide extract -sf picture.jpg -xf flag.txt
 
+After entering passphrase, the command creates a text file called flag.txt, which contains the crypted flag. There is used base64 encoding.
 
+Example: https://user-images.githubusercontent.com/83267434/140993713-bd3d573d-1264-493c-9201-3cc00ab38312.jpg
+
+The flag: y0u_f0und_tHe_fl4g
+--
