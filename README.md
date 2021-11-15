@@ -1,5 +1,5 @@
 # City-Of-Love-CTFChallenge
-The picture was sent to you by your friend John while he was visiting "The City Of Love. He is now being held by the local police, all evidence is against him. Yet he is just an innocent tourist. Help him, before it´s too late!
+The picture was sent to you by your friend John while he was visiting "The City Of Love". He is now being held by the local police, all evidence is against him. Yet he is just an innocent tourist. Help him, before it´s too late!
 ---
 
 Requirements: Steghide tool, Exiftool
