@@ -16,9 +16,11 @@ exiftool -gpslatitude -gpslongitude -n picture.jpg
 
 Example: https://user-images.githubusercontent.com/83267434/140991621-771e42e7-47cb-4420-80b0-35a3d8b2e4eb.png
 
-Using the command above the contestant is provided with coordinates: 48.864716 N 2.349014 E
+Using the command above the contestant is provided with coordinates: 48.860294 N  2.338629 E
 
-When inserting those coordinates into Google-maps search bar, it gives Paris as an answer.
+When inserting those coordinates into Google-maps search bar, it gives Louvre Museum as an answer.
+
+Lourve Museum and the Eiffel Tower has a thing in common, they both are located in Paris.
 
 "Paris" is a passphrase which is needed to get access to the secret file in the picture: flag.txt
 
